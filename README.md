@@ -1,4 +1,5 @@
 **Javascript softwere engineer**
+
 -Production experience in HTML/CSS/SCSS
 -Production experience in Javascript
 -Strong knowladge with Typescript
